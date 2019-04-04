@@ -1,0 +1,4 @@
+Predict My Play is released under a GPLv3 license (see License-gpl.txt).
+Please see Dependencies.md for a list of all included code and library dependencies which are not property of the authors of Predict My Play.
+
+For a closed-source version of Predict My Play for commercial purposes, please contact the authors.
